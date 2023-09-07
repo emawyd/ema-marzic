@@ -1,0 +1,52 @@
+body{
+  background-image: url(bg.jpg);
+background-size: cover;
+/*izvor slike: <a href="https://www.freepik.com/free-vector/blue-pink-halftone-background_14547742.htm#query=gradient%20background&position=12&from_view=keyword&track=ais">Image by rawpixel.com</a> on Freepik*/
+  
+}
+
+  li a:hover {
+    background-color: rgb(18, 73, 103);
+    border-radius: 4px;
+  }
+  h1{
+    text-align: center;
+  }
+ img{
+    width: auto;
+    height:10%;
+    margin-bottom: 2%;
+  }
+  body p{
+    font-size: 13pt;
+    margin: 0 5% 0 5% ;
+    color: rgb(46, 62, 77);
+  }
+  .navbar{
+    background-color: rgb(139, 181, 204);
+    margin-bottom: 2%;
+    font-size: 14pt;
+  }
+  .navbar li {
+    border-radius: 25px;
+  }
+  .navbar li a{
+    color: rgb(255, 255, 255);
+  }
+  #tijelo{
+    margin: 0 auto;
+    background-color:rgba(255, 255, 255, 0.541);
+    width: 80%;
+    border-radius: 6px;
+  }
+
+.link{
+font-weight: 600;
+color: rgb(192, 118, 212);
+}
+
+
+
+
+
+
